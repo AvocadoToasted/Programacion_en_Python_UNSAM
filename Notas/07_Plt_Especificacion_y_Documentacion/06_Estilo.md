@@ -164,7 +164,7 @@ Se recomienda no usar acentos ni caracteres especiales de ningún tipo para evit
 
 Esto es solo un breve resumen, mirá el [PEP 8](https://www.python.org/dev/peps/pep-0008/) para tener toda la información sobre estilo recomendado en Python.
 
-## El código no es solo leído: el código de percibe
+## El código no es solo leído: el código se percibe
 
 Más allá de los gustos por los diferentes estilos posibles, es importante recordar que hay una métrica que no falla nunca para evaluar la calidad de un código: _la cantidad de puteadas por minuto de un lector externo_. 
 
